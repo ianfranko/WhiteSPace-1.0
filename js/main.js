@@ -1,11 +1,10 @@
 /* -------------------------------------------
 
-Name: 		Ruizarch
-Version:    1.0
-Developer:	Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
+Name: 		Ian Frank ODundo
+Version:    1.2
+Developer:	Ian Franko (Whitespace)
 
-p.s. I am available for Freelance hire (UI design, web development). email: miller.themes@gmail.com
+p.s. I am available for Freelance hire (UI design, web development). email: ianodundo12@gmail.com
 
 ------------------------------------------- */
 
