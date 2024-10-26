@@ -1,11 +1,8 @@
 /* -------------------------------------------
 
-Name: 		Ruizarch
-Version:    1.0
-Developer:	Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
+Name: 		Ian Odundo
+Version:    1.2
 
-p.s. I am available for Freelance hire (UI design, web development). email: miller.themes@gmail.com
 
 ------------------------------------------- */
 /*--------------------------------------------
@@ -2664,7 +2661,7 @@ social icons
 revievs
 
 ------------------------------------------- */
-.mil-revi-pagination {
+/*.mil-revi-pagination {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -2815,7 +2812,7 @@ revievs
 }
 .mil-slider-nav.mil-soft .mil-slider-arrow svg path {
   fill: rgb(0, 0, 0);
-}
+}*/
 
 /* -------------------------------------------
 
